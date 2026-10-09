@@ -53,26 +53,26 @@ Construir um ecossistema de soluções digitais reconhecido pela inovação, con
       <h3>📊 Hubbix Manager</h3>
       Plataforma de gestão comercial voltada a comércios e prestadores de serviços.
 
-```
-  - Gestão de vendas e clientes
-  - Ordens de serviço
-  - Controle de dispositivos por cliente
-  - Gestão de estoque
-  - Relatórios personalizados
-  - Operação de caixa e recursos de pagamento
+* Gestão de vendas e clientes
+* Ordens de serviço
+* Controle de dispositivos por cliente
+* Gestão de estoque
+* Relatórios personalizados
+* Operação de caixa e recursos de pagamento
+
 </td>
 <td width="50%" valign="top">
   <h3>🍽️ Hubbix Gourmet</h3>
   Solução direcionada ao setor alimentício, integrando ferramentas para operação e atendimento.
 
-  - Aplicativo para garçons
-  - Cardápio digital
-  - KDS para cozinha
-  - Operação de caixa
-  - Gestão de estoque
-  - Automação e recursos de IA para WhatsApp
+* Aplicativo para garçons
+* Cardápio digital
+* KDS para cozinha
+* Operação de caixa
+* Gestão de estoque
+* Automação e recursos de IA para WhatsApp
+
 </td>
-```
 
   </tr>
 </table>
